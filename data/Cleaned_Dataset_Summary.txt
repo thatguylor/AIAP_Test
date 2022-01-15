@@ -11,16 +11,16 @@ V9XOR3    1
 16DJV7    1
 Name: ID, Length: 13639, dtype: int64
 ====================
-0    9239
-1    4400
+No     9239
+Yes    4400
 Name: Survive, dtype: int64
 ====================
-1    8869
-0    4770
+Male      8869
+Female    4770
 Name: Gender, dtype: int64
 ====================
-0    9203
-1    4436
+No     9203
+Yes    4436
 Name: Smoke, dtype: int64
 ====================
 Normal          7985
