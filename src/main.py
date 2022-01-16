@@ -4,8 +4,8 @@ import pandas as pd
 import time
 from datacleaning import * 
 from databaseconnect import *
-from gradientboosting import gradientBoost
 from logger import * 
+from gradientboosting import *
 from logisticregression import * 
 from randomforest import * 
 
